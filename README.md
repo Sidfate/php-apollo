@@ -1,4 +1,4 @@
-# Helpers [![Build Status](https://travis-ci.org/Sidfate/helpers.svg?branch=master)](https://travis-ci.org/Sidfate/helpers)
+# php-apollo [![Build Status](https://travis-ci.org/Sidfate/helpers.svg?branch=master)](https://travis-ci.org/Sidfate/helpers)
 [Apollo](https://github.com/ctripcorp/apollo)  client for php.
  
 # Install
