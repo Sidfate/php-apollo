@@ -1,0 +1,26 @@
+{
+    "name": "sidfate/apollo",
+    "description": "php apollo client",
+    "keywords": ["apollo"],
+    "homepage": "https://github.com/Sidfate/php-apollo",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+		{
+			"name": "Sidfate",
+			"email": "sidfate@163.com",
+			"homepage": "https://sidfate.com"
+		}
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {"Apollo\\": "src/"},
+        "files": ["src/helpers.php"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.5"
+    }
+}
